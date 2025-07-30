@@ -21,7 +21,7 @@
       attribution: '&copy; OpenStreetMap contributors'
     }).addTo(map);
 
-    fetch('sankito_locations.geojson')
+    fetch('sankito_locations.json')
       .then(response => response.json())
       .then(data => {
         L.geoJSON(data, {
