@@ -1,4 +1,1149 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6273517,
+          3.1303703
+        ]
+      },
+      "properties": {
+        "name": "NSK Grocer 3 Damansara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7001323,
+          3.1594544
+        ]
+      },
+      "properties": {
+        "name": "NSK Grocer Quill City Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6470702,
+          3.1047635
+        ]
+      },
+      "properties": {
+        "name": "NSK Grocer, Amcorp Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5289621,
+          3.115514
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Plaza Jelutong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4810291,
+          3.0952768
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Ardence Labs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4628666,
+          3.0516145
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Centro Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6063455,
+          3.0720837
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Sunway Pyramid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5776161,
+          3.0086166
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer Subang Alam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6371808,
+          3.109189
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer @ Jaya Shopping Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6369417,
+          3.1103925
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Jaya 33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6371808,
+          3.109189
+        ]
+      },
+      "properties": {
+        "name": "Jaya Shopping Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5925509,
+          3.0580052
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer @Da Men"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.582224,
+          3.0818382
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, NU Empire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5811551,
+          3.0265929
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Main Place Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5863921,
+          3.0781434
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, SS15 Courtyard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6089507,
+          3.0652319
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Sunway Geo Avenue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5130575,
+          3.0243973
+        ]
+      },
+      "properties": {
+        "name": "Urban Marketplace Alam Impian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6347683,
+          3.1284124
+        ]
+      },
+      "properties": {
+        "name": "Urban Marketplace Seventeen Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7190657,
+          3.1417815
+        ]
+      },
+      "properties": {
+        "name": "Urban Marketplace TRX Exchange 106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4595112,
+          3.1092594
+        ]
+      },
+      "properties": {
+        "name": "Urbanfresh Marketplace @ Setia City Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6887544,
+          3.2027301
+        ]
+      },
+      "properties": {
+        "name": "Urban Marketplace Sentul Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.694357,
+          3.0677226
+        ]
+      },
+      "properties": {
+        "name": "Urban Marketplace Pinnacle Sri Petaling"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6848584,
+          3.1022136
+        ]
+      },
+      "properties": {
+        "name": "DE MARKET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6952893,
+          3.1560783
+        ]
+      },
+      "properties": {
+        "name": "SOGO Kuala Lumpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7175027,
+          3.1420109
+        ]
+      },
+      "properties": {
+        "name": "SEIBU The Exchange TRX 西武 (せいぶ）"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7364781,
+          3.1491322
+        ]
+      },
+      "properties": {
+        "name": "Selections Groceries G Village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4783556,
+          3.1086028
+        ]
+      },
+      "properties": {
+        "name": "Garden Grocer By SKM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.747224,
+          3.1579997
+        ]
+      },
+      "properties": {
+        "name": "Ampang Grocers Sdn. Bhd."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4791358,
+          3.02367
+        ]
+      },
+      "properties": {
+        "name": "ST Rosyam Mall @ Jalan Kebun, Klang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2778211,
+          3.8201267
+        ]
+      },
+      "properties": {
+        "name": "Pantai Selamat Supermarket @ Indera Mahkota (Pasaraya Pantai Selamat)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6127092,
+          3.1584812
+        ]
+      },
+      "properties": {
+        "name": "K Plus Food Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5417677,
+          3.28015
+        ]
+      },
+      "properties": {
+        "name": "Gardens Square, Gamuda Gardens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5217931,
+          3.0859829
+        ]
+      },
+      "properties": {
+        "name": "ST Rosyam Mart (Shah Alam) Sdn Bhd (13101133-A)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5878324,
+          3.0472593
+        ]
+      },
+      "properties": {
+        "name": "ST Rosyam Wholesale Express Sdn Bhd (1381353-V) USJ9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7415817,
+          3.1790639
+        ]
+      },
+      "properties": {
+        "name": "ST Rosyam Mart Sdn Bhd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5650774,
+          3.2091942
+        ]
+      },
+      "properties": {
+        "name": "ST Rosyam Mart (Sg Buloh) Sdn Bhd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6241718,
+          3.2216274
+        ]
+      },
+      "properties": {
+        "name": "ST Rosyam Mart (Tmn Ehsan) Sdn Bhd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8531915,
+          2.9368352
+        ]
+      },
+      "properties": {
+        "name": "ST Rosyam Mart (Semenyih)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5858877,
+          3.1095023
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer • Evolve Concept Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7654663,
+          2.9328002
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Bangi Gateway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6508275,
+          2.9219445
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, D'Pulze Cyberjaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6060803,
+          3.1676698
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Perdana Shopping Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7285817,
+          3.1600523
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer Hock Choon Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7199181,
+          3.1615451
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, The Intermark Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.089874,
+          4.5955195
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Ipoh Parade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6396542,
+          1.3907604
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Sunway Citrine, Johor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6168719,
+          1.4403379
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer Eco Galleria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6850007,
+          2.743721
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, gateway@KLIA Terminal 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3276188,
+          3.8183454
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Kuantan City Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.646694,
+          3.167843
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Verve Mont Kiara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.599341,
+          3.129428
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Mutiara Tropicana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7774869,
+          2.825008
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Mesa Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5097048,
+          3.1819902
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer Elmina Lakeside Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5889148,
+          3.2029568
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Sierramas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6145464,
+          3.1514387
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, 1 Utama (New Wing)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6103367,
+          3.1380562
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Centrepoint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4564711,
+          3.2270072
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Eco Grandeur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7199181,
+          3.1615451
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, The Intermark Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6089507,
+          3.0652319
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Sunway Geo Avenue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4810291,
+          3.0952768
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Ardence Labs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6296285,
+          3.1328183
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Glo Damansara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6369417,
+          3.1103925
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Jaya 33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3111075,
+          5.4356179
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer @ Gurney Paragon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6763297,
+          3.1185131
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, The Gardens Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5863921,
+          3.0781434
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, SS15 Courtyard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6230216,
+          3.1346135
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer @ The Starling"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.769995,
+          1.4602745
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer R&F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7757339,
+          1.5615108
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer Austin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5718983,
+          3.1560722
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Emporis Kota Damansara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7310714,
+          3.224076
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, KL East Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8336101,
+          2.8991254
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Eco Majestic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7081589,
+          3.14087
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, LaLaport BBCC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6619002,
+          3.1459987
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, DC Mall (Damansara City Mall)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3979849,
+          5.398784
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer @ Sunway Carnival Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5526474,
+          2.9568199
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Quayside Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6168719,
+          1.4403379
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer Eco Galleria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7871192,
+          3.0554791
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, BMC Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.523534,
+          3.0849317
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer Plaza Shah Alam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9413234,
+          2.7201868
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer Seremban Prima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5776476,
+          3.0085951
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer Subang Alam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.741715,
+          3.0776396
+        ]
+      },
+      "properties": {
+        "name": "MeMi ZoooZooo Grocer, Majestic Maxim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.2224,
+          2.2019292
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer - Kota Laksamana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5427859,
+          2.9442869
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer, Eco Sanctuary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.444502,
+          5.2371742
+        ]
+      },
+      "properties": {
+        "name": "Jaya Grocer @ Eco Horizon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5895395,
+          3.1174035
+        ]
+      },
+      "properties": {
+        "name": "Memizoozoo Cantara Residences"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7033574,
+          3.2009218
+        ]
+      },
+      "properties": {
+        "name": "Memizoozoo Kenwingston Platz @ KL North"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7202435,
+          3.194148
+        ]
+      },
+      "properties": {
+        "name": "MemiZooZoo SAMA Square"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.660875,
+          3.0757007
+        ]
+      },
+      "properties": {
+        "name": "MemiZooZoo Bloomsvale Shopping Gallery"
+      }
+    }
+  ]
 }
