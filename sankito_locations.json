@@ -1,4 +1,18 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.685581,
+          3.114983
+        ]
+      },
+      "properties": {
+        "name": "Sample Marker"
+      }
+    }
+  ]
 }
